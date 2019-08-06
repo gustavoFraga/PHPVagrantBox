@@ -1,7 +1,3 @@
-## phpvagrantbox
+# phpvagrantbox
 
-#### Vagrant default box for PHP
-
-####
-
-Apache | PHP | MySQL | Composer
+## Vagrant default box for PHP
