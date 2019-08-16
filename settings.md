@@ -11,6 +11,7 @@
 ### settings SGBDs for working with vagrant (Standard TCP/IP Over SSH):
 ##### use @phpvagrantbox for password
 ##### get others informations through command vagrant ssh-config
- 
-*for .htaccess, configure /etc/apache2/apache2.conf (AllowOverride => All)* 
-*for show PHP errors, configure /etc/php/7.0/apache2/php.ini (display_errors => On)*
+
+### others settings
+##### for .htaccess, configure /etc/apa che2/apache2.conf (AllowOverride => All)
+##### for show PHP errors, configure /etc/php/7.0/apache2/php.ini (display_errors => On)
