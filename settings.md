@@ -12,5 +12,6 @@
 ##### use @phpvagrantbox for password
 ##### get others informations through command vagrant ssh-config
  
-*for .htaccess, configure /etc/apache2/apache2.conf (AllowOverride => All)*
+*for .htaccess, configure /etc/apache2/apache2.conf (AllowOverride => All)* 
+ 
 *for show PHP errors, configure /etc/php/7.0/apache2/php.ini (display_errors => On)*
