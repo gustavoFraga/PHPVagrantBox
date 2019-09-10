@@ -1,6 +1,4 @@
-# phpvagrantbox
-
-## Vagrant default box for PHP
+# phpvagrantbox - Vagrant default box for PHP
 
 #### In This Box:
 
